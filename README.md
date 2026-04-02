@@ -57,6 +57,10 @@ This repository contains the complete documentation suite for BuildRight Home Im
 | **Integration & Data Governance** | `07-oracle-fusion-cloud-erp/07.04-integration-data-governance.md` | Integration architecture and data governance |
 | **Oracle Module Mapping** | `07-oracle-fusion-cloud-erp/07.05-oracle-module-mapping.md` | SAP to Oracle module mapping reference (NEW) |
 | **Documentation Alignment Summary** | `07-oracle-fusion-cloud-erp/07.06-documentation-alignment-summary.md` | Summary of documentation alignment changes (NEW) |
+| **AI and Agentic Capabilities** | `07-oracle-fusion-cloud-erp/07.07-ai-agentic-capabilities.md` | Comprehensive guide to Oracle AI agents and agentic finance |
+| **User Guide** | `07-oracle-fusion-cloud-erp/07.08-user-guide.md` | End-user guide for Oracle Fusion Cloud ERP across all roles |
+| **Reporting and Analytics Guide** | `07-oracle-fusion-cloud-erp/07.09-reporting-guide.md` | Comprehensive guide to reporting, dashboards, and AI analytics |
+| **Troubleshooting Guide** | `07-oracle-fusion-cloud-erp/07.10-troubleshooting-guide.md` | Step-by-step troubleshooting procedures for common issues |
 
 ### Appendices
 
@@ -133,6 +137,11 @@ This repository contains the complete documentation suite for BuildRight Home Im
 ### New Documents Created
 1. **Oracle Module Mapping Reference**: Comprehensive SAP to Oracle module mapping
 2. **Documentation Alignment Summary**: Record of all documentation changes
+3. **AI and Agentic Capabilities Guide**: Comprehensive guide to Oracle AI agents and agentic finance
+4. **User Guide**: End-user guide for Oracle Fusion Cloud ERP across all roles
+5. **Reporting and Analytics Guide**: Comprehensive guide to reporting, dashboards, and AI analytics
+6. **Troubleshooting Guide**: Step-by-step troubleshooting procedures for common issues
+7. **Organizational Structure Updates**: Added Oracle Fusion Cloud ERP Center of Excellence and updated IT department subunits
 
 ## Quick Reference
 

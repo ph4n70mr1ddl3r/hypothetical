@@ -116,12 +116,30 @@ The Executive Leadership Team (ELT) is the Company's highest management body, re
 - **Direct Reports:** VP Application Development, VP Infrastructure & Operations, VP Data & Analytics, VP Information Security (CISO), VP Digital Product Management, VP IT Business Partners
 - **Primary Responsibilities:**
   - Sets the enterprise technology strategy and roadmap, ensuring IT capabilities enable business objectives and digital transformation.
-  - Oversees all technology platforms, including point-of-sale systems, ERP (SAP), data warehouse, e-commerce platforms, and in-store mobile tools.
+   - Oversees all technology platforms, including point-of-sale systems, ERP (Oracle Fusion Cloud ERP), data warehouse, e-commerce platforms, and in-store mobile tools.
   - Manages the Company's cybersecurity program, including threat detection, incident response, and compliance with PCI-DSS, CCPA, and other data privacy regulations.
   - Drives technology innovation, including IoT (smart store), AI/ML demand forecasting, and autonomous supply chain capabilities.
   - Manages the IT capital and operating budget (approximately $500M annually) and ensures project delivery on time and within budget.
   - Partners with the SVP E-Commerce to deliver seamless omnichannel technology experiences.
   - Chairs the Technology Governance Committee and presents the annual technology roadmap to the Board.
+
+### 2.6.1 Oracle Fusion Cloud ERP Center of Excellence
+
+**Mission:** Provide centralized leadership, expertise, and support for the Oracle Fusion Cloud ERP platform across all business units and geographies.
+
+**Key Functions:**
+- Oracle platform architecture and configuration standards
+- Business process alignment and optimization
+- Integration management with existing retail systems
+- User training, adoption, and change management
+- Continuous improvement and innovation leveraging Oracle AI/ML capabilities
+- Vendor relationship management with Oracle
+
+**Structure:**
+- **Director, Oracle CoE** (reports dotted-line to CIO, solid-line to VP Application Development)
+- **Oracle Functional Leads:** Financials, Procurement, SCM, HCM, EPM, Risk Management
+- **Oracle Technical Leads:** Integration, Security, Reporting, AI/ML
+- **Oracle Business Process Owners:** Embedded within each business unit
 
 ### 2.7 Chief Marketing Officer (CMktO)
 
@@ -452,7 +470,7 @@ BOARD OF DIRECTORS
 **Mission:** Deliver reliable, secure, and innovative technology solutions that power the Company's operations, enable digital transformation, and create competitive advantage.
 
 **Key Functions:**
-- Application development: designing, building, and maintaining custom and packaged applications, including point-of-sale (POS), ERP (SAP), merchandising systems, and workforce management tools.
+- Application development: designing, building, and maintaining custom and packaged applications, including point-of-sale (POS), ERP (Oracle Fusion Cloud ERP), merchandising systems, and workforce management tools.
 - Infrastructure & operations: managing data centers, cloud environments (AWS, Azure), network connectivity across all locations, end-user computing, and production support.
 - Data & analytics: building and maintaining the enterprise data warehouse, business intelligence platforms, data science models, and reporting solutions.
 - Information security: protecting Company and customer data through cybersecurity programs, threat monitoring, vulnerability management, and incident response.
@@ -466,6 +484,7 @@ BOARD OF DIRECTORS
 - Information Security (governance, risk & compliance; threat intelligence; security operations center; identity & access management)
 - Digital Product Management (product owners, UX research, agile delivery)
 - IT Business Partners (liaisons to each corporate department and business unit)
+- Oracle Fusion Cloud ERP Center of Excellence (CoE) (platform architecture, configuration, integration, training, and optimization)
 
 ---
 
