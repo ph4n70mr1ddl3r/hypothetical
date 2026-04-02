@@ -13,7 +13,7 @@
 | **Last Revised** | November 15, 2025 |
 | **Next Scheduled Review** | January 1, 2027 |
 | **Document Owner** | Vice President of Sustainability and Environmental Compliance |
-| **Approved By** | Margaret A. Thornton, Chief Executive Officer |
+| **Approved By** | Marcus E. Caldwell, Chief Executive Officer |
 | **Review Authority** | Board of Directors — Sustainability Committee |
 
 ### Revision History
@@ -48,7 +48,7 @@ Our environmental commitments are as follows:
 
 This policy establishes the framework within which every BRHI associate, contractor, and business partner must operate. I expect each of you to understand your role in advancing these commitments and to act on them every day.
 
-*Margaret A. Thornton*
+*Marcus E. Caldwell*
 *Chief Executive Officer*
 *BuildRight Home Improvement, Inc.*
 

@@ -50,7 +50,7 @@ I ask every one of you to do three things:
 
 **Second, live by this Code.** Apply these principles in your daily work. When you face a difficult decision, use this Code as your compass. If you are ever unsure about the right course of action, err on the side of doing what is right, not what is easy.
 
-**Third, speak up.** If you see something that does not look right — a potential violation of law, a breach of this Code, or any conduct that undermines our values — report it. You can talk to your supervisor, contact the Ethics and Compliance Office, or call our confidential Ethics Hotline at 1-800-BUILD-RIGHT. We have a strict non-retaliation policy, and I take that commitment personally. No one will ever face adverse consequences for raising a concern in good faith.
+**Third, speak up.** If you see something that does not look right — a potential violation of law, a breach of this Code, or any conduct that undermines our values — report it. You can talk to your supervisor, contact the Ethics and Compliance Office, or call our confidential Ethics Hotline at 1-800-BUILD-ETHICS. We have a strict non-retaliation policy, and I take that commitment personally. No one will ever face adverse consequences for raising a concern in good faith.
 
 We are a company of more than 500,000 associates, operating thousands of stores across North America. Each of us is a guardian of our reputation. I am proud of the culture we have built together — a culture of integrity, accountability, and respect. This Code is both a reflection of that culture and a tool to protect it.
 
@@ -58,7 +58,7 @@ Thank you for your commitment to doing the right thing. It is what makes BuildRi
 
 With appreciation and respect,
 
-**Margaret A. Covington**
+**Marcus E. Caldwell**
 Chief Executive Officer
 BuildRight Home Improvement, Inc.
 
@@ -101,7 +101,7 @@ This Code is the cornerstone of the Company's ethics and compliance program but 
 - BRHI-POL-005: Information Security and Data Privacy Policy
 - BRHI-POL-006: Records Retention and Management Policy
 - BRHI-POL-007: Anti-Discrimination and Harassment Policy
-- BRHI-POL-008: Health, Safety, and Environment Policy
+- BRHI-POL-003: Health, Safety, and Environment Policy
 - BRHI-POL-009: Vendor and Supplier Code of Conduct
 - BRHI-POL-010: Social Media and Communications Policy
 - BRHI-POL-011: Gifts and Entertainment Policy

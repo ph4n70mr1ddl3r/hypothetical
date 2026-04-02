@@ -81,7 +81,7 @@ BuildRight Home Improvement, Inc. is a publicly traded corporation organized und
 
 ### Board of Directors
 
-The Board of Directors consists of 13 members, including 11 independent directors. The Board maintains four standing committees: Audit and Finance; Compensation and Human Resources; Nominating and Corporate Governance; and Sustainability and Public Responsibility.
+The Board of Directors consists of 12 members, including 10 independent directors. The Board maintains four standing committees: Audit and Finance; Compensation and Human Resources; Nominating and Corporate Governance; and Sustainability and Public Responsibility.
 
 ---
 
@@ -281,7 +281,7 @@ BuildRight carries approximately 30,000–40,000 SKUs per store and over 1.2 mil
 | Kitchen & Bath            | Cabinets, countertops (granite, quartz, laminate), kitchen sinks, bathroom vanities, toilets, bathtubs, shower surrounds, faucets, backsplash tile, kitchen accessories                                    |
 | Lawn & Garden             | Live plants (annuals, perenninals, shrubs, trees), potting soil, mulch, fertilizer, grass seed, garden tools, watering equipment, outdoor power equipment (mowers, trimmers, blowers, chainsaws)           |
 | Appliances                | Refrigerators, ranges, dishwashers, washers, dryers, microwaves, range hoods, wine coolers, compact appliances, appliance parts and accessories                                                           |
-| Outdoor Living            | Patio furniture, grills (gas, charcoal, pellet), outdoor kitchens, fire pits, pergolas, outdoor lighting, pergolas, awnings, outdoor heaters, swing sets, sheds                                           |
+| Outdoor Living            | Patio furniture, grills (gas, charcoal, pellet), outdoor kitchens, fire pits, pergolas, outdoor lighting, awnings, outdoor heaters, swing sets, sheds                                           |
 | Storage & Organization    | Shelving units, storage bins, closet systems, garage storage, tool chests, laundry organization, pantry organizers, utility cabinets                                                                      |
 | Seasonal                  | Holiday decor, seasonal lighting, snow removal equipment, space heaters, fans, air conditioners, generators, storm preparedness supplies, pool supplies                                                   |
 
@@ -312,7 +312,7 @@ BuildRight operates in all 50 states and the District of Columbia.
 | Region          | Approximate Store Count | Key Metropolitan Markets                                                         |
 |-----------------|-------------------------|----------------------------------------------------------------------------------|
 | Northeast       | 310                     | New York, Boston, Philadelphia, Pittsburgh, Hartford                             |
-| Southeast       | 520                     | Atlanta, Charlotte, Nashville, Orlando, Miami, Tampa                              |
+| Southeast       | 522                     | Atlanta, Charlotte, Nashville, Orlando, Miami, Tampa                              |
 | Mid-Atlantic    | 280                     | Washington D.C., Baltimore, Richmond, Virginia Beach                              |
 | Midwest         | 410                     | Chicago, Detroit, Minneapolis, Columbus, Indianapolis, Kansas City               |
 | South Central   | 340                     | Dallas, Houston, San Antonio, Austin, Oklahoma City, New Orleans                  |
@@ -444,7 +444,7 @@ BuildRight invests heavily in the ongoing development of its associates:
 
 - **BuildRight University:** A comprehensive learning management system offering over 5,000 courses covering product knowledge, customer service, leadership, safety, compliance, and professional development.
 - **Product Knowledge Certifications:** Associates can earn certifications in specific departments (e.g., Certified Plumbing Expert, Certified Electrical Advisor), which are recognized with additional compensation and apron pins.
-- **Tuition Reimbursement:** Up to $5,250 per year for approved degree programs and professional certifications.
+- **Tuition Reimbursement:** Up to $5,000 per year for approved degree programs and professional certifications.
 - **Skilled Trades Partnerships:** Collaborations with community colleges and vocational schools to develop the next generation of skilled trades professionals.
 
 ### Associate Recognition

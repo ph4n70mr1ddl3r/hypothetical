@@ -9,7 +9,7 @@
 | Field | Detail |
 |---|---|
 | **Document ID** | BRHI-TECH-000 |
-| **Version** | 1.2 |
+| **Version** | 1.3 |
 | **Classification** | Internal |
 | **Effective Date** | April 2, 2026 |
 | **Document Owner** | Chief Technology Officer |

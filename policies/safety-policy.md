@@ -51,7 +51,7 @@
 >
 > Safety is not a separate activity from our work. Safety IS our work. Let us build right, work right, and go home safely — every single day.
 >
-> **Margaret A. Kowalski**
+> **Marcus E. Caldwell**
 > Chief Executive Officer
 > BuildRight Home Improvement, Inc.
 > March 15, 2026

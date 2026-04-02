@@ -65,10 +65,9 @@ This policy applies worldwide, in every country, state, province, and locality w
 This policy should be read in conjunction with the following BRHI policies:
 
 - BRHI-POL-001 — Code of Business Conduct and Ethics
-- BRHI-POL-002 — Conflict of Interest Policy
-- BRHI-POL-003 — Vendor and Supplier Code of Conduct
-- BRHI-POL-004 — Records Retention Policy
-- BRHI-POL-005 — Whistleblower and Non-Retaliation Policy
+- BRHI-POL-002 — Human Resources Policies
+- BRHI-POL-005 — Environmental Sustainability and Compliance Policy
+- BRHI-REF-002 — Document Control and Records Management Policy
 
 ---
 
