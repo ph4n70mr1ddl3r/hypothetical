@@ -125,21 +125,36 @@ The Executive Leadership Team (ELT) is the Company's highest management body, re
 
 ### 2.6.1 Oracle Fusion Cloud ERP Center of Excellence
 
-**Mission:** Provide centralized leadership, expertise, and support for the Oracle Fusion Cloud ERP platform across all business units and geographies.
+**Mission:** Provide centralized leadership, expertise, and support for the Oracle Fusion Cloud ERP platform across all business units and geographies, maximizing value realization and driving digital transformation.
 
 **Key Functions:**
 - Oracle platform architecture and configuration standards
 - Business process alignment and optimization
-- Integration management with existing retail systems
+- Integration management with existing retail systems (POS, WMS, e-commerce)
 - User training, adoption, and change management
 - Continuous improvement and innovation leveraging Oracle AI/ML capabilities
 - Vendor relationship management with Oracle
+- Oracle Retail solution optimization (Inventory Planning, Supply Chain Collaboration)
+- AI agent deployment and management for financial and supply chain automation
+- Retail-specific analytics and reporting
 
 **Structure:**
 - **Director, Oracle CoE** (reports dotted-line to CIO, solid-line to VP Application Development)
-- **Oracle Functional Leads:** Financials, Procurement, SCM, HCM, EPM, Risk Management
-- **Oracle Technical Leads:** Integration, Security, Reporting, AI/ML
+- **Oracle Functional Leads:**
+  - Financials Lead
+  - Procurement Lead
+  - Supply Chain Management (SCM) Lead
+  - Human Capital Management (HCM) Lead
+  - Enterprise Performance Management (EPM) Lead
+  - Risk Management Lead
+  - Retail Solutions Lead (Oracle Retail, Inventory Planning Optimization)
+- **Oracle Technical Leads:**
+  - Integration Lead
+  - Security Lead
+  - Reporting and Analytics Lead
+  - AI/ML Lead (AI agents, predictive analytics, automation)
 - **Oracle Business Process Owners:** Embedded within each business unit
+- **Oracle Retail Specialist Team:** Focused on retail-specific optimizations and Oracle Retail solutions
 
 ### 2.7 Chief Marketing Officer (CMktO)
 

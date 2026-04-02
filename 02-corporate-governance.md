@@ -456,6 +456,55 @@ The following compensation structure applies to non-management directors of the 
 - Review shareholder proposals and feedback related to ESG topics
 - Monitor ESG ratings, rankings, and assessments from third-party organizations
 
+### 3.7 Technology Governance Committee
+
+| Attribute | Requirement |
+|---|---|
+| **Size** | Minimum 5 members |
+| **Independence** | Majority must be independent directors with technology expertise |
+| **Meeting Frequency** | 6 times per year (minimum) |
+
+**Charter Duties and Responsibilities:**
+
+**Enterprise Technology Strategy Oversight:**
+- Review and approve the Company's enterprise technology strategy and roadmap, ensuring alignment with business objectives and digital transformation goals
+- Oversee major technology investments, including the Oracle Fusion Cloud ERP implementation and associated infrastructure
+- Monitor technology investment performance against business case expectations and ROI targets
+- Review emerging technologies and their potential impact on the Company's competitive position
+
+**Oracle Fusion Cloud ERP Oversight:**
+- Provide strategic oversight for the Oracle Fusion Cloud ERP implementation program
+- Review and approve major Oracle platform decisions, including module deployments, configuration standards, and integration architecture
+- Monitor Oracle implementation progress against milestones, budget, and quality standards
+- Oversee Oracle-related vendor relationship management, including contract negotiations and performance management
+- Review Oracle AI and agentic capabilities roadmap and deployment strategy
+- Ensure Oracle platform security, compliance, and risk management
+
+**Cybersecurity and Data Protection:**
+- Oversee the Company's cybersecurity program, including threat detection, prevention, and incident response capabilities
+- Review the adequacy of cybersecurity controls, policies, and procedures
+- Monitor cybersecurity risk assessments and penetration testing results
+- Review data privacy policies and compliance with applicable privacy laws and regulations (CCPA, PIPEDA, GDPR)
+- Receive quarterly reports on cybersecurity threats, incidents, and vulnerability assessments
+
+**Digital Transformation and Innovation:**
+- Oversee the Company's digital transformation initiatives, including omnichannel retail, AI/ML adoption, and automation
+- Review digital innovation investments and their impact on customer experience and operational efficiency
+- Monitor technology adoption metrics and user satisfaction across all platforms
+- Evaluate partnerships with technology vendors, startups, and academic institutions
+
+**Technology Governance and Compliance:**
+- Review and approve technology governance frameworks, policies, and standards
+- Oversee IT project portfolio management and resource allocation
+- Review technology-related regulatory compliance, including accessibility standards, industry regulations, and contractual obligations
+- Ensure appropriate IT controls and audit programs are in place
+
+**Technology Talent and Organization:**
+- Review the Company's technology talent strategy, including recruitment, development, and retention of technology professionals
+- Oversee the structure and effectiveness of the Oracle Center of Excellence and other technology teams
+- Review technology organizational design and capability development plans
+- Monitor technology team performance metrics and associate engagement
+
 ---
 
 ## 4. Corporate Governance Policies

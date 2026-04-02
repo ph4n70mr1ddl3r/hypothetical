@@ -529,24 +529,32 @@ BuildRight Home Improvement, Inc. has selected Oracle Fusion Cloud ERP as its en
 - Automated intercompany transactions and eliminations for complex multi-entity structure (U.S., Canada, México)
 - Real-time inventory visibility across all channels enabling superior customer service
 - AI-powered demand forecasting reducing stockouts by 20% and excess inventory by 15%
+- Oracle Retail Inventory Planning Optimization (IPO) for advanced demand sensing and inventory optimization
+- Oracle AI-driven supply chain collaboration for enhanced vendor coordination and risk mitigation
 
 **Financial Excellence:**
 - Multi-GAAP accounting support (US GAAP, IFRS, Mexican NIIF) from a single transaction entry
 - Automated revenue recognition compliant with ASC 606 for all sales channels
 - Continuous close capabilities reducing period-end close from 15 days to 5 days
 - Embedded SOX controls and continuous monitoring for regulatory compliance
+- AI-powered financial agents for ledger automation, anomaly detection, and intelligent reconciliation
+- Predictive cash forecasting integrating with Oracle Cloud ERP for enhanced liquidity management
 
 **Supply Chain Optimization:**
 - End-to-end visibility from vendor to store shelf to customer doorstep
 - Intelligent order orchestration across BOPIS, ship-to-home, and jobsite delivery
 - AI-assisted procurement identifying $50M+ in annual savings opportunities
 - Supplier risk monitoring and performance scorecards
+- Oracle Retail Supply Chain Collaboration for AI-driven vendor coordination and compliance
+- Advanced analytics for demand forecasting using machine learning models
 
 **Associate Experience:**
 - Mobile-first HR experiences for 503,000 associates across North America
 - Integrated learning management within Oracle HCM for product knowledge certifications
 - Self-service procurement for store supplies and equipment
 - Digital assistant capabilities for common HR and IT requests
+- AI-powered talent management and succession planning
+- Personalized learning paths and skill development recommendations
 
 ### 12.3 Implementation Approach
 
