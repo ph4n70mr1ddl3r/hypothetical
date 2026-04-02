@@ -10,65 +10,65 @@ This repository contains the complete documentation suite for BuildRight Home Im
 
 | Document | File | Description |
 |---|---|---|
-| **Company Overview** | `00-company-overview.md` | High-level company information including Oracle platform strategy |
-| **Organizational Structure** | `01-organizational-structure.md` | Company structure and Oracle-related roles |
-| **Corporate Governance** | `02-corporate-governance.md` | Governance framework including technology oversight |
+| **Company Overview** | `strategic/company-overview.md` | High-level company information including Oracle platform strategy |
+| **Organizational Structure** | `strategic/organizational-structure.md` | Company structure and Oracle-related roles |
+| **Corporate Governance** | `strategic/corporate-governance.md` | Governance framework including technology oversight |
 
 ### Company Policies
 
 | Document | File | Description |
 |---|---|---|
-| **Code of Conduct** | `03-company-policies/03.01-code-of-conduct.md` | Ethical standards and business conduct |
-| **HR Policies** | `03-company-policies/03.02-hr-policies.md` | Human resources policies and procedures |
-| **Safety Policy** | `03-company-policies/03.03-safety-policy.md` | Workplace safety standards |
-| **Information Security Policy** | `03-company-policies/03.04-information-security-policy.md` | Data security and privacy (updated for Oracle) |
-| **Environmental Policy** | `03-company-policies/03.05-environmental-policy.md` | Sustainability and environmental standards |
-| **Anti-Corruption Policy** | `03-company-policies/03.06-anti-corruption-policy.md` | Anti-bribery and corruption standards |
+| **Code of Conduct** | `policies/code-of-conduct.md` | Ethical standards and business conduct |
+| **HR Policies** | `policies/hr-policies.md` | Human resources policies and procedures |
+| **Safety Policy** | `policies/safety-policy.md` | Workplace safety standards |
+| **Information Security Policy** | `policies/information-security-policy.md` | Data security and privacy (updated for Oracle) |
+| **Environmental Policy** | `policies/environmental-policy.md` | Sustainability and environmental standards |
+| **Anti-Corruption Policy** | `policies/anti-corruption-policy.md` | Anti-bribery and corruption standards |
 
 ### Standard Operating Procedures (SOPs)
 
 | Document | File | Description |
 |---|---|---|
-| **Store Operations** | `04-sops/04.01-store-operations.md` | Daily store operations procedures |
-| **Inventory Management** | `04-sops/04.02-inventory-management.md` | Inventory control and management (updated for Oracle) |
-| **Procurement** | `04-sops/04.03-procurement.md` | Procurement and purchasing procedures |
-| **Customer Service** | `04-sops/04.04-customer-service.md` | Customer service standards |
-| **Loss Prevention** | `04-sops/04.05-loss-prevention.md` | Asset protection and loss prevention |
-| **Warehouse Distribution** | `04-sops/04.06-warehouse-distribution.md` | Warehouse operations |
-| **Human Resources** | `04-sops/04.07-human-resources.md` | HR operations and procedures |
+| **Store Operations** | `standard-operating-procedures/store-operations.md` | Daily store operations procedures |
+| **Inventory Management** | `standard-operating-procedures/inventory-management.md` | Inventory control and management (updated for Oracle) |
+| **Procurement** | `standard-operating-procedures/procurement.md` | Procurement and purchasing procedures |
+| **Customer Service** | `standard-operating-procedures/customer-service.md` | Customer service standards |
+| **Loss Prevention** | `standard-operating-procedures/loss-prevention.md` | Asset protection and loss prevention |
+| **Warehouse Distribution** | `standard-operating-procedures/warehouse-distribution.md` | Warehouse operations |
+| **Human Resources** | `standard-operating-procedures/human-resources.md` | HR operations and procedures |
 
 ### Business Process Documents
 
 | Document | File | Description |
 |---|---|---|
-| **Order-to-Cash** | `05-business-processes/05.01-order-to-cash.md` | End-to-end sales process (updated for Oracle) |
-| **Procure-to-Pay** | `05-business-processes/05.02-procure-to-pay.md` | Procurement and payment process (updated for Oracle) |
-| **Customer Returns** | `05-business-processes/05.03-customer-returns-process.md` | Return and refund process |
-| **Store Opening/Closing** | `05-business-processes/05.04-store-opening-closing.md` | Store operations procedures |
+| **Order-to-Cash** | `business-processes/order-to-cash.md` | End-to-end sales process (updated for Oracle) |
+| **Procure-to-Pay** | `business-processes/procure-to-pay.md` | Procurement and payment process (updated for Oracle) |
+| **Customer Returns** | `business-processes/customer-returns-process.md` | Return and refund process |
+| **Store Opening/Closing** | `business-processes/store-opening-closing.md` | Store operations procedures |
 
 ### Oracle Fusion Cloud ERP Documentation
 
 | Document | File | Description |
 |---|---|---|
-| **Master Index** | `07-oracle-fusion-cloud-erp/07.00-master-index.md` | Index and guide to all Oracle documentation (updated) |
-| **Implementation Guide** | `07-oracle-fusion-cloud-erp/07.01-implementation-guide.md` | Comprehensive implementation roadmap |
-| **Security & Administration Policy** | `07-oracle-fusion-cloud-erp/07.02-security-administration-policy.md` | Security framework and access control |
-| **Training & Change Management** | `07-oracle-fusion-cloud-erp/07.03-training-change-management.md` | Training program and change management |
-| **Integration & Data Governance** | `07-oracle-fusion-cloud-erp/07.04-integration-data-governance.md` | Integration architecture and data governance |
-| **Oracle Module Mapping** | `07-oracle-fusion-cloud-erp/07.05-oracle-module-mapping.md` | SAP to Oracle module mapping reference (NEW) |
-| **Documentation Alignment Summary** | `07-oracle-fusion-cloud-erp/07.06-documentation-alignment-summary.md` | Summary of documentation alignment changes (NEW) |
-| **AI and Agentic Capabilities** | `07-oracle-fusion-cloud-erp/07.07-ai-agentic-capabilities.md` | Comprehensive guide to Oracle AI agents and agentic finance |
-| **User Guide** | `07-oracle-fusion-cloud-erp/07.08-user-guide.md` | End-user guide for Oracle Fusion Cloud ERP across all roles |
-| **Reporting and Analytics Guide** | `07-oracle-fusion-cloud-erp/07.09-reporting-guide.md` | Comprehensive guide to reporting, dashboards, and AI analytics |
-| **Troubleshooting Guide** | `07-oracle-fusion-cloud-erp/07.10-troubleshooting-guide.md` | Step-by-step troubleshooting procedures for common issues |
+| **Master Index** | `oracle-erp/master-index.md` | Index and guide to all Oracle documentation (updated) |
+| **Implementation Guide** | `oracle-erp/implementation-guide.md` | Comprehensive implementation roadmap |
+| **Security & Administration Policy** | `oracle-erp/security-administration-policy.md` | Security framework and access control |
+| **Training & Change Management** | `oracle-erp/training-change-management.md` | Training program and change management |
+| **Integration & Data Governance** | `oracle-erp/integration-data-governance.md` | Integration architecture and data governance |
+| **Oracle Module Mapping** | `oracle-erp/oracle-module-mapping.md` | SAP to Oracle module mapping reference (NEW) |
+| **Documentation Alignment Summary** | `oracle-erp/documentation-alignment-summary.md` | Summary of documentation alignment changes (NEW) |
+| **AI and Agentic Capabilities** | `oracle-erp/ai-agentic-capabilities.md` | Comprehensive guide to Oracle AI agents and agentic finance |
+| **User Guide** | `oracle-erp/user-guide.md` | End-user guide for Oracle Fusion Cloud ERP across all roles |
+| **Reporting and Analytics Guide** | `oracle-erp/reporting-guide.md` | Comprehensive guide to reporting, dashboards, and AI analytics |
+| **Troubleshooting Guide** | `oracle-erp/troubleshooting-guide.md` | Step-by-step troubleshooting procedures for common issues |
 
 ### Appendices
 
 | Document | File | Description |
 |---|---|---|
-| **Glossary** | `06-appendices/06.01-glossary.md` | Terms and definitions |
-| **Document Control** | `06-appendices/06.02-document-control.md` | Document management standards |
-| **Revision History** | `06-appendices/06.03-revision-history.md` | Document revision tracking |
+| **Glossary** | `appendices/glossary.md` | Terms and definitions |
+| **Document Control** | `appendices/document-control.md` | Document management standards |
+| **Revision History** | `appendices/revision-history.md` | Document revision tracking |
 
 ## Key Features of Oracle Fusion Cloud ERP Implementation
 

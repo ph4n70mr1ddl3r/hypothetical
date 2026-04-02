@@ -1689,10 +1689,10 @@ Monthly tracking of procurement spend with diverse suppliers:
 
 | Document ID | Document Title | Location |
 |---|---|---|
-| BRHI-SOP-001 | Code of Business Conduct and Ethics | docs/04-sops/04.01-code-of-conduct.md |
-| BRHI-SOP-002 | Financial Controls and Accounting Policies | docs/04-sops/04.02-financial-controls.md |
-| BRHI-SOP-004 | Inventory Management | docs/04-sops/04.04-inventory-management.md |
-| BRHI-SOP-005 | Loss Prevention | docs/04-sops/04.05-loss-prevention.md |
+| BRHI-SOP-001 | Code of Business Conduct and Ethics | policies/code-of-conduct.md |
+| BRHI-SOP-002 | Financial Controls and Accounting Policies | policies/financial-controls.md |
+| BRHI-SOP-004 | Inventory Management | standard-operating-procedures/inventory-management.md |
+| BRHI-SOP-005 | Loss Prevention | standard-operating-procedures/loss-prevention.md |
 | BRHI-PROC-001 | Vendor Application Package | forms/procurement/PROC-001.pdf |
 | BRHI-PROC-002 | Sustainability Questionnaire | forms/procurement/PROC-002.pdf |
 | BRHI-PROC-003 | Reference Check Form | forms/procurement/PROC-003.pdf |

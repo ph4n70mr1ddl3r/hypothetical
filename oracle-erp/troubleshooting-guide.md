@@ -376,10 +376,10 @@ This guide applies to:
 
 | Document | ID | Location |
 |---|---|---|
-| Oracle User Guide | BRHI-TECH-005 | /07-oracle-fusion-cloud-erp/07.08-user-guide.md |
-| Oracle Reporting Guide | BRHI-TECH-006 | /07-oracle-fusion-cloud-erp/07.09-reporting-guide.md |
-| Oracle Security Policy | BRHI-SEC-001 | /07-oracle-fusion-cloud-erp/07.02-security-administration-policy.md |
-| Oracle Training Guide | BRHI-TRN-001 | /07-oracle-fusion-cloud-erp/07.03-training-change-management.md |
+| Oracle User Guide | BRHI-TECH-005 | oracle-erp/user-guide.md |
+| Oracle Reporting Guide | BRHI-TECH-006 | oracle-erp/reporting-guide.md |
+| Oracle Security Policy | BRHI-SEC-001 | oracle-erp/security-administration-policy.md |
+| Oracle Training Guide | BRHI-TRN-001 | oracle-erp/training-change-management.md |
 
 ---
 

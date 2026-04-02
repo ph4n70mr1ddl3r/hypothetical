@@ -50,9 +50,9 @@ The Oracle Fusion Cloud ERP documentation suite consists of four categories:
 
 | Document | ID | Location | Purpose |
 |---|---|---|---|
-| **Company Overview** | BRHI-CORP-001 | /00-company-overview.md | High-level company information including Oracle platform strategy |
-| **Organizational Structure** | BRHI-ORG-001 | /01-organizational-structure.md | Company structure and Oracle-related roles |
-| **Corporate Governance** | BRHI-GOV-001 | /02-corporate-governance.md | Governance framework including technology oversight |
+| **Company Overview** | BRHI-CORP-001 | strategic/company-overview.md | High-level company information including Oracle platform strategy |
+| **Organizational Structure** | BRHI-ORG-001 | strategic/organizational-structure.md | Company structure and Oracle-related roles |
+| **Corporate Governance** | BRHI-GOV-001 | strategic/corporate-governance.md | Governance framework including technology oversight |
 
 #### Category B: Oracle-Specific Documents (07-xxx Series)
 
@@ -92,10 +92,10 @@ The Oracle Fusion Cloud ERP documentation suite consists of four categories:
 
 **Recommended Reading Order:**
 
-1. **Company Overview** (00-company-overview.md) - Section 12: Enterprise Technology Platform
+1. **Company Overview** (strategic/company-overview.md) - Section 12: Enterprise Technology Platform
 2. **Oracle Implementation Guide** (07.01) - Sections 1-2 (Purpose and Roadmap)
 3. **Oracle Training & Change Management Guide** (07.03) - Section 3 (Change Management Framework)
-4. **Corporate Governance** (02-corporate-governance.md) - Technology oversight sections
+4. **Corporate Governance** (strategic/corporate-governance.md) - Technology oversight sections
 
 **Time Required:** 2-3 hours
 
@@ -145,10 +145,10 @@ The Oracle Fusion Cloud ERP documentation suite consists of four categories:
 
 **Recommended Reading Order:**
 
-1. **Company Overview** (00-company-overview.md) - Section 12 (Oracle Platform Overview)
+1. **Company Overview** (strategic/company-overview.md) - Section 12 (Oracle Platform Overview)
 2. **Oracle Training Guide** (07.03) - Section 4.2.5 (Store Operations Training)
 3. **Oracle Implementation Guide** (07.01) - Sections 1 and 6 (Purpose and Training)
-4. **Relevant SOPs** (04-xxx series) - Updated with Oracle references
+4. **Relevant SOPs** (standard-operating-procedures) - Updated with Oracle references
 
 **Time Required:** 4-6 hours
 
@@ -332,20 +332,20 @@ Level 5: Supporting Documents
 
 | # | Document Title | Document ID | Location |
 |---|---|---|---|
-| 1 | Company Overview | BRHI-CORP-001 | /00-company-overview.md |
-| 2 | Organizational Structure | BRHI-ORG-001 | /01-organizational-structure.md |
-| 3 | Corporate Governance | BRHI-GOV-001 | /02-corporate-governance.md |
-| 4 | Information Security Policy | BRHI-POL-004 | /03-company-policies/03.04-information-security-policy.md |
-| 5 | Oracle Implementation Guide | BRHI-TECH-001 | /07-oracle-fusion-cloud-erp/07.01-implementation-guide.md |
-| 6 | Oracle Security Policy | BRHI-SEC-001 | /07-oracle-fusion-cloud-erp/07.02-security-administration-policy.md |
-| 7 | Oracle Training Guide | BRHI-TRN-001 | /07-oracle-fusion-cloud-erp/07.03-training-change-management.md |
-| 8 | Oracle Data Governance | BRHI-DG-001 | /07-oracle-fusion-cloud-erp/07.04-integration-data-governance.md |
-| 9 | Oracle Module Mapping | BRHI-TECH-002 | /07-oracle-fusion-cloud-erp/07.05-oracle-module-mapping.md |
-| 10 | AI and Agentic Capabilities | BRHI-TECH-004 | /07-oracle-fusion-cloud-erp/07.07-ai-agentic-capabilities.md |
-| 11 | Master Index (this document) | BRHI-TECH-000 | /07-oracle-fusion-cloud-erp/07.00-master-index.md |
-| 12 | User Guide | BRHI-TECH-005 | /07-oracle-fusion-cloud-erp/07.08-user-guide.md |
-| 13 | Reporting and Analytics Guide | BRHI-TECH-006 | /07-oracle-fusion-cloud-erp/07.09-reporting-guide.md |
-| 14 | Troubleshooting Guide | BRHI-TECH-007 | /07-oracle-fusion-cloud-erp/07.10-troubleshooting-guide.md |
+| 1 | Company Overview | BRHI-CORP-001 | strategic/company-overview.md |
+| 2 | Organizational Structure | BRHI-ORG-001 | strategic/organizational-structure.md |
+| 3 | Corporate Governance | BRHI-GOV-001 | strategic/corporate-governance.md |
+| 4 | Information Security Policy | BRHI-POL-004 | policies/information-security-policy.md |
+| 5 | Oracle Implementation Guide | BRHI-TECH-001 | oracle-erp/implementation-guide.md |
+| 6 | Oracle Security Policy | BRHI-SEC-001 | oracle-erp/security-administration-policy.md |
+| 7 | Oracle Training Guide | BRHI-TRN-001 | oracle-erp/training-change-management.md |
+| 8 | Oracle Data Governance | BRHI-DG-001 | oracle-erp/integration-data-governance.md |
+| 9 | Oracle Module Mapping | BRHI-TECH-002 | oracle-erp/oracle-module-mapping.md |
+| 10 | AI and Agentic Capabilities | BRHI-TECH-004 | oracle-erp/ai-agentic-capabilities.md |
+| 11 | Master Index (this document) | BRHI-TECH-000 | oracle-erp/master-index.md |
+| 12 | User Guide | BRHI-TECH-005 | oracle-erp/user-guide.md |
+| 13 | Reporting and Analytics Guide | BRHI-TECH-006 | oracle-erp/reporting-guide.md |
+| 14 | Troubleshooting Guide | BRHI-TECH-007 | oracle-erp/troubleshooting-guide.md |
 
 ### Appendix B: Document Templates
 

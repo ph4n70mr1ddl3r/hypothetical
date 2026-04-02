@@ -419,10 +419,10 @@ This guide covers:
 
 | Document | ID | Location |
 |---|---|---|
-| Oracle Implementation Guide | BRHI-TECH-001 | /07-oracle-fusion-cloud-erp/07.01-implementation-guide.md |
-| Oracle Integration & Data Governance | BRHI-DG-001 | /07-oracle-fusion-cloud-erp/07.04-integration-data-governance.md |
-| Oracle AI Capabilities | BRHI-TECH-004 | /07-oracle-fusion-cloud-erp/07.07-ai-agentic-capabilities.md |
-| Oracle User Guide | BRHI-TECH-005 | /07-oracle-fusion-cloud-erp/07.08-user-guide.md |
+| Oracle Implementation Guide | BRHI-TECH-001 | oracle-erp/implementation-guide.md |
+| Oracle Integration & Data Governance | BRHI-DG-001 | oracle-erp/integration-data-governance.md |
+| Oracle AI Capabilities | BRHI-TECH-004 | oracle-erp/ai-agentic-capabilities.md |
+| Oracle User Guide | BRHI-TECH-005 | oracle-erp/user-guide.md |
 
 ---
 

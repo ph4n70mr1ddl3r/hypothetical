@@ -353,10 +353,10 @@ The Oracle Digital Assistant is an AI-powered chatbot that helps you complete ta
 
 | Document | ID | Location |
 |---|---|---|
-| Oracle Implementation Guide | BRHI-TECH-001 | /07-oracle-fusion-cloud-erp/07.01-implementation-guide.md |
-| Oracle Security Policy | BRHI-SEC-001 | /07-oracle-fusion-cloud-erp/07.02-security-administration-policy.md |
-| Oracle Training Guide | BRHI-TRN-001 | /07-oracle-fusion-cloud-erp/07.03-training-change-management.md |
-| Oracle AI Capabilities | BRHI-TECH-004 | /07-oracle-fusion-cloud-erp/07.07-ai-agentic-capabilities.md |
+| Oracle Implementation Guide | BRHI-TECH-001 | oracle-erp/implementation-guide.md |
+| Oracle Security Policy | BRHI-SEC-001 | oracle-erp/security-administration-policy.md |
+| Oracle Training Guide | BRHI-TRN-001 | oracle-erp/training-change-management.md |
+| Oracle AI Capabilities | BRHI-TECH-004 | oracle-erp/ai-agentic-capabilities.md |
 
 ---
 
